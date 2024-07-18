@@ -1,2 +1,2 @@
-# chatbot
-batata
+# Chatbot
+Chatbot criado em python para estudo.
